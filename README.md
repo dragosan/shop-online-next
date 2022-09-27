@@ -1,3 +1,6 @@
 # Creating a next ecomm app
 
-1 - Design layout
+Design layout
+setup tailwind with next.js
+design basic layout
+use dummy data
